@@ -7,7 +7,7 @@
         </ul>
         <ul class="list-inline text-muted">
             <li>
-                <?php _e('Powered by <a href="https://typecho.org">Typecho</a>'); ?>
+                <?php _e('你好 <a href="https://draw.colix.cn">deli</a>'); ?>
             </li>
         </ul>
     </div>
